@@ -42,5 +42,4 @@ class HeaderFilterServiceImpl(configuration: Configuration,
     println(s"HeaderFilterServiceImpl: parameter= ${parameter}")
     Future("Hello\n")
   }
-
 }
