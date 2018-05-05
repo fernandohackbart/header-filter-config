@@ -14,3 +14,4 @@ logs
 .idea/libraries
 .idea/modules
 .idea/*.xml
+.directory
